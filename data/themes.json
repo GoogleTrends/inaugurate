@@ -8,7 +8,7 @@
     ],
     "description": "Politics is obviously a common theme for inauguration speeches, but some subjects are specific for certain speeches:",
     "insights": [
-      "Although President of the United States has a low relative average search interest in 2016, President George H.W. Bush is the only one who mentions this subject.",
+      "Although President of the United States has a high relative average search interest in 2016, only President George H.W. Bush is the only one who mentions this subject.",
       "The Republic itself is a relevant topic in early speeches, for President Washington and Jefferson."
     ]
   },
@@ -20,8 +20,7 @@
     ],
     "description": "During an inauguration speech presidents usually lay out their vision for finance and economics.",
     "insights": [
-      "During the Great Depression, it made sense to talk about actual money. President Roosevelt was the only one mentioning this subject.",
-      "Commerce is a subject that has a high search interest throughout the year."
+      "During the Great Depression, it made sense to talk about actual money. President Roosevelt was the only one mentioning this subject."
     ]
   },
   {
@@ -33,6 +32,7 @@
     ],
     "description": "Discussing human emotions and human traits allow people to connect to contents of the speech on an emotional level.",
     "insights": [
+      "Of all the subjects in all themes, Love has the highest search interest.",
       "Courage is a subject mention mostly by President George W. Bush.",
       "Compassion is a subject mentioned by President George W. Bush as well, suggesting his speech has to do with character."
     ]
@@ -47,7 +47,8 @@
     "description": "Many people live a spiritual or religious life. Presidents usually touch upon matters of the mind.",
     "insights": [
       "In general God is a subject that often occurs in inauguration speeches, also in closing words.",
-      "Of all the selected subjects, God was the subject most mentioned by President Lincoln."
+      "Of all the selected subjects, God was the subject most mentioned by President Lincoln.",
+      "Within the Spirit & Mind theme, God has a much higher search interest than the other subjects."
     ]
   },
   {
@@ -59,8 +60,8 @@
     ],
     "description": "Many subjects are covered in an inaugration speech regarding society",
     "insights": [
-      "Peace is a very popular subject. It's the most mentioned subject by Presidents Jefferson, Nixon and Reagan.",
-      "Although Political Freedom has not a very high search average in 2016, it is one of the most popular subjects in inauguration speeches."
+      "Peace is a very popular subject in speeches. It's the most mentioned subject by Presidents Jefferson, Nixon and Reagan.",
+      "Freedom has a high search average in 2016, and it is also one of the most popular subjects in inauguration speeches."
     ]
   },
   {
