@@ -27,7 +27,7 @@
     "theme": "emotions",
     "label": "Emotions & Human Traits",
     "entities": [
-      "courage", "dignity", "love", "happiness", "loyalty",
+      "courage", "dignity", "love", "happiness", "loyalty", "patriotism",
       "morality", "sacrifice", "compassion", "generosity"
     ],
     "description": "Discussing human emotions and human traits allow people to connect to contents of the speech on an emotional level.",
@@ -42,7 +42,7 @@
     "label": "Spirit & Mind",
     "entities": [
       "god", "spirit", "faith", "destiny", "wisdom",
-      "soul", "prayer", "conscience", "truth"
+      "soul", "prayer", "conscience", "truth", "bible"
     ],
     "description": "Many people live a spiritual or religious life. Presidents usually touch upon matters of the mind.",
     "insights": [
@@ -56,25 +56,27 @@
     "label": "Society",
     "entities": [
       "poverty", "wealth", "peace", "liberty", "hatred",
-      "political freedom", "common good", "hero", "patriotism", "promise", "revolution"
+      "political freedom", "common good", "hero", "promise", "revolution", "crime"
     ],
     "description": "Many subjects are covered in an inaugration speech regarding society",
     "insights": [
       "Peace is a very popular subject in speeches. It's the most mentioned subject by Presidents Jefferson, Nixon and Reagan.",
-      "Freedom has a high search average in 2016, and it is also one of the most popular subjects in inauguration speeches."
+      "Freedom has a high search average in 2016, and it is also one of the most popular subjects in inauguration speeches.",
+      "Contrary to other recent Presidents, President Trump does not mention the word Freedom."
     ]
   },
   {
     "theme": "other",
     "label": "Other",
     "entities": [
-      "united states", "weapon", "earth", "allies of world war ii",
+      "united states", "weapon", "earth", "allies of world war ii", "factory", "washington, d.c.",
       "planet", "union (american civil war)", "new world", "moon", "nothing"
     ],
     "description": "Several subjects have not been categorized in the other themes.",
     "insights": [
       "President Nixon is the only one mentioning the subject Moon, which was relevant due to the first trip to the moon.",
-      "For most presidents the subject United States was the most popular subject mentioned."
+      "For most presidents the subject United States was the most popular subject mentioned. President Trump has the most.",
+      "President Trump mentions the word Factory, which is not common for earlier recent Presidents."
     ]
   }
 ]
